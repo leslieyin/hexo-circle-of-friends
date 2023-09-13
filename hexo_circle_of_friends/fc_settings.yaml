@@ -16,10 +16,10 @@
 # 支持配置多个友链页面并指定不同主题策略，每个用{}分隔，它们会被同时爬取，数据保存在一起。
 
 LINK = [
-         {
-         "link": "https://blog.yhz610.com/link/", # 你的友链地址
-         "theme": "common2",  # 友链页的获取策略
-     },
+    {
+        "link": "https://blog.yhz610.com/link/",
+        "theme": "common2"
+    },
 ]
 
 # 配置项友链
