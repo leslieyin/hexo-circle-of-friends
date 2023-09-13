@@ -19,7 +19,7 @@
 #     { link: "https://noionion.top/link/", theme: "butterfly" }, # 友链页地址2
 #     { link: "https://immmmm.com/about/", theme: "common1" }, # 友链页地址3
 #     ...
-]
+# ] 
 
 LINK = [
          {
