@@ -17,6 +17,7 @@
 LINK:
     # link改为你的友链页地址，theme选择你的博客主题（我这里安知鱼主题，所以选 common2）
     - {link: "https://blhorizon.github.io/link/", theme: "common2"}
+
 # 配置项友链
 # enable：# 是否启用配置项友链 true/false（针对还未适配主题或者有定制需求的用户）
 # json_api：通过json格式配置友链，详见：https://fcircle-doc.yyyzyyyz.cn/#/developmentdoc?id=配置项json友链
